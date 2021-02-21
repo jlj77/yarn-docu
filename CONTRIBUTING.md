@@ -11,7 +11,7 @@ Welcome! We're in need of contributions, and very glad you're here. Whatever you
 - Spread the word; or
 - Donate!
 
-Just to name a few ideas; if you have others, feel free to reach out on one of our pods, or in our IRC channel on Freenode.
+Just to name a few ideas; if you have others, feel free to reach out on one of our pods, or in **our IRC channel on Freenode**.
 
 ## Bugs
 
