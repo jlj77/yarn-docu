@@ -38,7 +38,7 @@ We've decided to put our efforts elsewhere to date, but if you have a passion fo
 
 ## Running a pod
 
-Check out **INSTALL.md** for details on build and running a pod. Or, if that isn't your bag, we could run one for you: checking our **Our new landing page** for details.
+Check out **INSTALL.md** for details on building and running a pod. It's designed to be painless, we promise! Or, if that isn't your bag, we could run one for you: checking our **new landing page** for details.
 
 ## Show us some love!
 
